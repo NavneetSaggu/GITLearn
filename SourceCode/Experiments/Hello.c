@@ -18,3 +18,7 @@ int main()
 	HelloMars();
 	return 0;
 }
+
+void codeFromTestingBranch() {
+	// code coming from testing
+}
