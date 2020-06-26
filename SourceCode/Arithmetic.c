@@ -9,3 +9,7 @@ int sub(int x, int y) {
 int fact() {
 	// code from testing branch
 }
+
+int combination(int n, int c) {
+	// code for nCr
+}
