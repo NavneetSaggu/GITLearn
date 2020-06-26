@@ -13,3 +13,7 @@ int  mul(int x, int y) {
 int div(int x, int y) {
 	return x/y;
 }
+
+int fibo(int n) {
+	// Added to local repository
+}

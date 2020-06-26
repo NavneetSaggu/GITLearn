@@ -12,6 +12,10 @@ void RemoteChanges() {
 	printf("Remote Changes Are Done");
 }
 
+void emptyFunction() {
+	// This is empty
+}
+
 int main()
 {
 	Hello();
