@@ -17,3 +17,7 @@ int div(int x, int y) {
 int fibo(int n) {
 	// Added to local repository
 }
+
+int combinations(int n, int r) {
+	// calculate nCr
+}
